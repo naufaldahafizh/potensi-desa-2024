@@ -78,7 +78,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 77,Jakarta,BUM Desa,4 - 7 Juni 2024,32,JAWA BARAT,3209.0,Cirebon,320939.0,Suranenggala,3209392008.0,Suranenggala Kidul,3
 78,Jakarta,BUM Desa,23 - 26 Juli 2024,36,BANTEN,3601.0,Pandeglang,360133.0,Koroncong,3601332003.0,Gerendong,3
 79,Jakarta,BUM Desa,23 - 26 Juli 2024,36,BANTEN,3601.0,Pandeglang,360133.0,Koroncong,3601332007.0,Karangsetra,3
-80,Jakarta,BUM Desa,23 - 26 Juli 2024,36,BANTEN,3601.0,Pandeglang,360122.0,Cadasari,,Pasir Peuteuy,3
+80,Jakarta,BUM Desa,23 - 26 Juli 2024,36,BANTEN,3601.0,Pandeglang,360122.0,Cadasari,0.0,Pasir Peuteuy,3
 81,Jakarta,BUM Desa,23 - 26 Juli 2024,36,BANTEN,3601.0,Pandeglang,360133.0,Koroncong,3601332006.0,Setrajaya,3
 82,Jakarta,BUM Desa,23 - 26 Juli 2024,36,BANTEN,3601.0,Pandeglang,360122.0,Cadasari,3601222008.0,Ciinjuk,3
 83,Jakarta,BUM Desa,23 - 26 Juli 2024,36,BANTEN,3601.0,Pandeglang,360133.0,Koroncong,3208192007.0,Paniis,3
@@ -125,7 +125,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 17,Yogyakarta,BUM Desa,5-8 Maret 2024,34,DAERAH ISTIMEWA YOGYAKARTA,3308.0,Magelang,330802.0,Borobudur,3202212014.0,Karanganyar,1
 18,Yogyakarta,BUM Desa,5-8 Maret 2024,34,DAERAH ISTIMEWA YOGYAKARTA,3517.0,Jombang,351708.0,Diwek,1110122008.0,Keras,1
 19,Yogyakarta,BUM Desa,5-8 Maret 2024,34,DAERAH ISTIMEWA YOGYAKARTA,3517.0,Jombang,351708.0,Diwek,3209212009.0,Grogol,1
-20,Yogyakarta,BUM Desa,5-8 Maret 2024,34,DAERAH ISTIMEWA YOGYAKARTA,3508.0,Lumajang,350812.0,Senduro,,Bruno,2
+20,Yogyakarta,BUM Desa,5-8 Maret 2024,34,DAERAH ISTIMEWA YOGYAKARTA,3508.0,Lumajang,350812.0,Senduro,0.0,Bruno,2
 21,Yogyakarta,BUM Desa,5-8 Maret 2024,34,DAERAH ISTIMEWA YOGYAKARTA,3518.0,Nganjuk,351810.0,Baron,3518102005.0,Kemlokolegi,1
 22,Yogyakarta,BUM Desa,5-8 Maret 2024,34,DAERAH ISTIMEWA YOGYAKARTA,3518.0,Nganjuk,351810.0,Baron,3518102008.0,Jekek,1
 23,Yogyakarta,BUM Desa,5-8 Maret 2024,34,DAERAH ISTIMEWA YOGYAKARTA,3521.0,Ngawi,352112.0,Widodaren,3521122002.0,Kedunggudel,1
@@ -186,7 +186,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 78,Yogyakarta,Bum Desa,10 - 13 Juni 2024,33,Jawa Tengah,3323.0,Temanggung,332305.0,Kaloran,3316162006.0,Tlogowungu,2
 79,Yogyakarta,Bum Desa,10 - 13 Juni 2024,33,Jawa Tengah,3323.0,Temanggung,332306.0,Kandangan,3304032008.0,Blimbing,2
 80,Yogyakarta,Bum Desa,10 - 13 Juni 2024,33,Jawa Tengah,3323.0,Temanggung,332315.0,Selopampang,3323152007.0,Kacepit,2
-81,Yogyakarta,Bum Desa,10 - 13 Juni 2024,33,Jawa Tengah,3323.0,Temanggung,332313.0,Kranggan,,Sranggahan,2
+81,Yogyakarta,Bum Desa,10 - 13 Juni 2024,33,Jawa Tengah,3323.0,Temanggung,332313.0,Kranggan,0.0,Sranggahan,2
 82,Yogyakarta,Bum Desa,10 - 13 Juni 2024,33,Jawa Tengah,3323.0,Temanggung,332313.0,Kranggan,3323132003.0,Bengkal,2
 83,Yogyakarta,Bum Desa,10 - 13 Juni 2024,33,Jawa Tengah,3323.0,Temanggung,332313.0,Kranggan,3322032001.0,Badran,2
 84,Yogyakarta,Bum Desa,11 - 14 Juni 2024,33,Jawa Tengah,3322.0,Semarang,332205.0,Pabelan,3322052014.0,Bejaten,2
@@ -225,7 +225,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 117,Yogyakarta,Bum Desa,27 - 30 Juni 2024,35,Jawa Timur,3504.0,Tulungagung,350402.0,Boyolangu,3504022004.0,Boyolangu,2
 118,Yogyakarta,Bum Desa,27 - 30 Juni 2024,35,Jawa Timur,3504.0,Tulungagung,350402.0,Boyolangu,3504022008.0,Waung,2
 119,Yogyakarta,Bum Desa,27 - 30 Juni 2024,35,Jawa Timur,3504.0,Tulungagung,350403.0,Kedungwaru,1301112001.0,Tapan,2
-120,Yogyakarta,Bum Desa,27 - 30 Juni 2024,35,Jawa Timur,3504.0,Tulungagung,350404.0,Ngantru,,PucungLor,2
+120,Yogyakarta,Bum Desa,27 - 30 Juni 2024,35,Jawa Timur,3504.0,Tulungagung,350404.0,Ngantru,0.0,PucungLor,2
 121,Yogyakarta,Bum Desa,27 - 30 Juni 2024,35,Jawa Timur,3504.0,Tulungagung,350419.0,Tanggunggunung,3504192006.0,Tenggarejo,2
 122,Yogyakarta,Bum Desa,27 - 30 Juni 2024,35,Jawa Timur,3504.0,Tulungagung,350411.0,Ngunut,3504112002.0,Samir,2
 123,Yogyakarta,Bum Desa,27 - 30 Juni 2024,35,Jawa Timur,3504.0,Tulungagung,331406.0,Gondang,3308082012.0,Gondosuli,2
@@ -252,10 +252,10 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 144,Yogyakarta,Bum Desa,2-5 Juli 2024,33,Jawa Tengah,3302.0,Banyumas,330223.0,Kedungbanteng,3301042015.0,Karangnangka,2
 145,Yogyakarta,Bum Desa,2-5 Juli 2024,33,Jawa Tengah,3302.0,Banyumas,330210.0,Kalibagor,3302102003.0,Kaliori,2
 146,Yogyakarta,Bum Desa,15-18 Juli 2024,33,Jawa Tengah,3304.0,Banjarnegara,330406.0,Banjarnegara,1607132008.0,Cendana,2
-147,Yogyakarta,Bum Desa,15-18 Juli 2024,33,Jawa Tengah,3304.0,Banjarnegara,,Tegal Timur,3304152003.0,Sarwodadi,2
+147,Yogyakarta,Bum Desa,15-18 Juli 2024,33,Jawa Tengah,3304.0,Banjarnegara,0.0,Tegal Timur,3304152003.0,Sarwodadi,2
 148,Yogyakarta,Bum Desa,15-18 Juli 2024,33,Jawa Tengah,3304.0,Banjarnegara,330408.0,Madukara,3304082007.0,Pagelak,2
 149,Yogyakarta,Bum Desa,15-18 Juli 2024,33,Jawa Tengah,3304.0,Banjarnegara,330409.0,Banjarmangu,3304092006.0,Kalilunjar,2
-150,Yogyakarta,Bum Desa,15-18 Juli 2024,33,Jawa Tengah,3304.0,Banjarnegara,,Purwonegoro,3304042008.0,Mertasari,2
+150,Yogyakarta,Bum Desa,15-18 Juli 2024,33,Jawa Tengah,3304.0,Banjarnegara,0.0,Purwonegoro,3304042008.0,Mertasari,2
 151,Yogyakarta,Bum Desa,15-18 Juli 2024,33,Jawa Tengah,3304.0,Banjarnegara,330418.0,Kalibening,3304182011.0,Gununglangit,2
 152,Yogyakarta,Bum Desa,15-18 Juli 2024,33,Jawa Tengah,3304.0,Banjarnegara,330416.0,Batur,3304162005.0,Kepakisan,2
 153,Yogyakarta,Bum Desa,15-18 Juli 2024,33,Jawa Tengah,3304.0,Banjarnegara,330405.0,Bawang,3304052018.0,Pucang,2
@@ -268,7 +268,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 160,Yogyakarta,Bum Desa,15-18 Juli 2024,33,Jawa Tengah,3304.0,Banjarnegara,330409.0,Banjarmangu,3279042002.0,Rejasari,2
 161,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351719.0,Jogoroto,3517192001.0,Jogoroto,2
 162,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,352103.0,Jogorogo,3310172016.0,Janti,2
-163,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351713.0,Tembelang,,Jatiwares,2
+163,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351713.0,Tembelang,0.0,Jatiwares,2
 164,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351713.0,Tembelang,3517132005.0,Kedunglosari,2
 165,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351713.0,Tembelang,3517132015.0,Bedahlawak,2
 166,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351702.0,Gudo,3517022006.0,Sukoiber,2
@@ -277,7 +277,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 169,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351701.0,Perak,3310032017.0,Sembung,2
 170,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351605.0,Ngoro,3315132016.0,Pulorejo,2
 171,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351605.0,Ngoro,1506012001.0,Badang,2
-172,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351605.0,Ngoro,,Genuk Watu,2
+172,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351605.0,Ngoro,0.0,Genuk Watu,2
 173,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351605.0,Ngoro,3505192002.0,Kesamben,2
 174,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351714.0,Ploso,3517142008.0,Jatibanjar,2
 175,Yogyakarta,Bum Desa,16-19 Juli 2024,35,Jawa Timur,3517.0,Jombang,351710.0,Peterongan,3517102004.0,Mancar,2
@@ -290,15 +290,15 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 182,Yogyakarta,Calon Transmigran,22-28 Juli 2024,33,Jawa Tengah,3316.0,Blora,331610.0,Tunjungan,3309172002.0,Kedungrejo,1
 183,Yogyakarta,Calon Transmigran,22-28 Juli 2024,33,Jawa Tengah,3325.0,Batang,332509.0,Subah,3325092025.0,Kemiri Barat,1
 184,Yogyakarta,Calon Transmigran,22-28 Juli 2024,33,Jawa Tengah,3308.0,Magelang,330601.0,Grabag,3308182021.0,Cokro,1
-185,Yogyakarta,Calon Transmigran,22-28 Juli 2024,33,Jawa Tengah,,Kota Surakarta,,Laweyan,3310022006.0,Kerten,1
+185,Yogyakarta,Calon Transmigran,22-28 Juli 2024,33,Jawa Tengah,0.0,Kota Surakarta,0.0,Laweyan,3310022006.0,Kerten,1
 186,Yogyakarta,Calon Transmigran,22-28 Juli 2024,33,Jawa Tengah,3306.0,Purworejo,330605.0,Kaligesing,3306052001.0,Jatirejo,1
 187,Yogyakarta,Calon Transmigran,22-28 Juli 2024,33,Jawa Tengah,3310.0,Klaten,331018.0,Karanganom,3310032008.0,Brangkal,1
 188,Yogyakarta,Calon Transmigran,22-28 Juli 2024,33,Jawa Tengah,3322.0,Semarang,332212.0,Bringin,1801162001.0,Banding,1
-189,Yogyakarta,Calon Transmigran,22-28 Juli 2024,33,Jawa Tengah,,Kota Semarang,,Semarang Barat,,Ngemplak Simongan,1
+189,Yogyakarta,Calon Transmigran,22-28 Juli 2024,33,Jawa Tengah,0.0,Kota Semarang,0.0,Semarang Barat,0.0,Ngemplak Simongan,1
 190,Yogyakarta,Calon Transmigran,22-28 Juli 2024,33,Jawa Tengah,3327.0,Pemalang,332701.0,Moga,3305022013.0,Banyumudal,1
 191,Yogyakarta,Calon Transmigran,22-28 Juli 2024,33,Jawa Tengah,3305.0,Kebumen,330509.0,Prembun,3305092010.0,Mulyosri,1
 1,Pekanbaru,BUM Desa,28-31 Maret 2024,14,Riau,1401.0,Kampar,140117.0,Kampa,1401172004.0,Koto Perambahan,11
-2,Pekanbaru,BUM Desa,28-31 Maret 2024,14,Riau,1401.0,Kampar,,Kampar Timur,1401172007.0,Sungai Tarap,3
+2,Pekanbaru,BUM Desa,28-31 Maret 2024,14,Riau,1401.0,Kampar,0.0,Kampar Timur,1401172007.0,Sungai Tarap,3
 3,Pekanbaru,BUM Desa,28-31 Maret 2024,14,Riau,1401.0,Kampar,140107.0,Kampar Kiri,1401072003.0,Kuntu,1
 4,Pekanbaru,BUM Desa,28-31 Maret 2024,14,Riau,1401.0,Kampar,140119.0,Kampar Kiri Tengah,1401192002.0,Bina Baru,3
 5,Pekanbaru,BUM Desa,28-31 Maret 2024,14,Riau,1401.0,Kampar,140119.0,Kampar Kiri Tengah,1401192008.0,Koto Damai,1
@@ -311,26 +311,26 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 12,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121606.0,Dolok Sanggul,1216062026.0,Aek Lung,2
 13,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121606.0,Dolok Sanggul,1216062020.0,Sihite II,2
 14,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121606.0,Dolok Sanggul,1201122006.0,Sosor Gonting,2
-15,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121606.0,Dolok Sanggul,,Silaga-laga,2
+15,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121606.0,Dolok Sanggul,0.0,Silaga-laga,2
 16,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121606.0,Dolok Sanggul,1216062004.0,Pasaribu,2
 17,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121609.0,Pakkat,1216092003.0,Karya,2
 18,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121605.0,Lintong Nihuta,1216052013.0,Habeahan,2
 19,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121605.0,Lintong Nihuta,1216052022.0,Nagasaribu V,2
 20,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121605.0,Lintong Nihuta,1216052010.0,Nagasaribu II,2
 21,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121604.0,Paranginan,1216042008.0,Siboru Torop,2
-22,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121604.0,Paranginan,,Labutolong Habinsaran,2
+22,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121604.0,Paranginan,0.0,Labutolong Habinsaran,2
 23,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121607.0,SijamaPolang,1203032014.0,Huta Ginjang,2
-24,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121602.0,Pollung,,Ria-Ria,2
+24,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121602.0,Pollung,0.0,Ria-Ria,2
 25,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121608.0,Onan Ganjang,1216082010.0,Sigalogo,1
-26,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121608.0,Onan Ganjang,,Batunagodang,1
+26,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121608.0,Onan Ganjang,0.0,Batunagodang,1
 27,Pekanbaru,Bum Desa,23-26 April 2024,12,Sumatera Utara,1216.0,HUMBANG HASUNDUTAN,121601.0,Parlilitan,1216012007.0,Sionom Hudon Utara,2
-28,Pekanbaru,Bum Desa,14-17 Mei 2024,12,Sumatera Utara,1217.0,Samosir,121707.0,Ronggur nihuta,,Lintongnihuta,3
+28,Pekanbaru,Bum Desa,14-17 Mei 2024,12,Sumatera Utara,1217.0,Samosir,121707.0,Ronggur nihuta,0.0,Lintongnihuta,3
 29,Pekanbaru,Bum Desa,14-17 Mei 2024,12,Sumatera Utara,1217.0,Samosir,121708.0,Pangururan,1217082009.0,Huta Bolon,3
 30,Pekanbaru,Bum Desa,14-17 Mei 2024,12,Sumatera Utara,1217.0,Samosir,121708.0,Pangururan,1213032005.0,Huta Tinggi,2
 31,Pekanbaru,Bum Desa,14-17 Mei 2024,12,Sumatera Utara,1217.0,Samosir,121701.0,Simanindo,1217012009.0,Cinta Dame,2
 32,Pekanbaru,Bum Desa,14-17 Mei 2024,12,Sumatera Utara,1217.0,Samosir,121708.0,Pangururan,1102062004.0,Pardomuan I,1
 33,Pekanbaru,Bum Desa,14-17 Mei 2024,12,Sumatera Utara,1217.0,Samosir,121708.0,Pangururan,1217082011.0,Pardugul,2
-34,Pekanbaru,Bum Desa,14-17 Mei 2024,12,Sumatera Utara,1217.0,Samosir,121708.0,Pangururan,,Lumban Suhitoruan,1
+34,Pekanbaru,Bum Desa,14-17 Mei 2024,12,Sumatera Utara,1217.0,Samosir,121708.0,Pangururan,0.0,Lumban Suhitoruan,1
 35,Pekanbaru,Bum Desa,14-17 Mei 2024,12,Sumatera Utara,1217.0,Samosir,121708.0,Pangururan,1217082014.0,Tanjung Bunga,2
 36,Pekanbaru,Bum Desa,14-17 Mei 2024,12,Sumatera Utara,1217.0,Samosir,121708.0,Pangururan,1216062015.0,Saitnihuta,1
 37,Pekanbaru,Bum Desa,14-17 Mei 2024,12,Sumatera Utara,1217.0,Samosir,121708.0,Pangururan,1217082019.0,Sialanguan,2
@@ -349,21 +349,21 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 50,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120211.0,Parmonangan,1202112001.0,Manalu,3
 51,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120211.0,Parmonangan,1202112008.0,Sisordak,3
 52,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120212.0,Sipahutar,1202122009.0,Siabal-Abal III,1
-53,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120212.0,Sipahutar,,Sabungan Ni huta I,1
-54,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120212.0,Sipahutar,,Sabungan Ni Huta IV,1
+53,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120212.0,Sipahutar,0.0,Sabungan Ni huta I,1
+54,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120212.0,Sipahutar,0.0,Sabungan Ni Huta IV,1
 55,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120212.0,Sipahutar,1202122005.0,Sipahutar III,1
 56,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120201.0,Tarutung,1202012018.0,Hutatoruan IV,2
 57,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120201.0,Tarutung,1202012019.0,Sosunggulon,2
-58,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120201.0,Tarutung,,Hutatoruan x,1
+58,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120201.0,Tarutung,0.0,Hutatoruan x,1
 59,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120205.0,Pahae Julu,1202052002.0,Simasom,2
 60,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120203.0,Adian koting,1202032011.0,Banuaji I,3
-61,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120204.0,Sipoholon,,Lobusingkam,2
+61,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120204.0,Sipoholon,0.0,Lobusingkam,2
 62,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120208.0,Purba tua,1202082005.0,Hutanagodang,1
 63,Pekanbaru,Bum Desa,21-24 Mei 2024,12,Sumatera Utara,1202.0,Tapanuli Utara,120208.0,Purba tua,1116112004.0,Selamat,1
 64,Pekanbaru,Desa Wisata,28-31 Mei 2024,14,Riau,1405.0,Pelalawan,140501.0,Ukui,1405012006.0,Lubuk Kembang Bunga,3
 65,Pekanbaru,Desa Wisata,28-31 Mei 2024,14,Riau,1405.0,Pelalawan,140504.0,Pangkalan Lesung,1402032022.0,Dusun Tua,3
 66,Pekanbaru,Desa Wisata,28-31 Mei 2024,14,Riau,1405.0,Pelalawan,140503.0,Pangkalan Kuras,1405032009.0,Betung,3
-67,Pekanbaru,Desa Wisata,28-31 Mei 2024,14,Riau,1405.0,Pelalawan,140502.0,Pangkalan Kerinci,,Kualu Terusan,2
+67,Pekanbaru,Desa Wisata,28-31 Mei 2024,14,Riau,1405.0,Pelalawan,140502.0,Pangkalan Kerinci,0.0,Kualu Terusan,2
 68,Pekanbaru,Desa Wisata,28-31 Mei 2024,14,Riau,1405.0,Pelalawan,140502.0,Pangkalan Kerinci,1405032004.0,Palas,1
 69,Pekanbaru,Desa Wisata,28-31 Mei 2024,14,Riau,1405.0,Pelalawan,140502.0,Pangkalan Kerinci,1405022005.0,Rantau Baru,3
 70,Pekanbaru,Desa Wisata,28-31 Mei 2024,14,Riau,1406.0,Rokan Hulu,140602.0,Rokan IV Koto,1406022013.0,Rokan Koto Ruang,3
@@ -373,7 +373,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 74,Pekanbaru,Desa Wisata,28-31 Mei 2024,14,Riau,1406.0,Rokan Hulu,140603.0,Rambah,1404112009.0,Sialang Jaya,3
 75,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130511.0,Sintuak Toboh Gadang,1305112001.0,Sintuak,2
 76,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130509.0,IV Koto Aur Malintang,1305092004.0,III Koto Aur Malintang Selatan,2
-77,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130501.0,Lubuk Alung,,Balah Hilia,1
+77,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130501.0,Lubuk Alung,0.0,Balah Hilia,1
 78,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130515.0,2 x 11 Kayu Tanam,1305152004.0,Kapalo Hilalang,1
 79,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130515.0,2 x 11 Kayu Tanam,1303082003.0,Guguak,1
 80,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130502.0,Batang Anai,1305022002.0,Kasang,2
@@ -382,7 +382,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 83,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130515.0,2 x 11 Kayu Tanam,1305152001.0,Kayu Tanam,1
 84,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130507.0,Sungai Garingging,1305072002.0,Malai III Koto,1
 85,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130506.0,V Koto Kampung Dalam,1305062005.0,Sikucua Utara,1
-86,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130509.0,IV Koto Aur Malintang,,"Padang Asam, Batu Basa",1
+86,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130509.0,IV Koto Aur Malintang,0.0,"Padang Asam, Batu Basa",1
 87,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130503.0,Nan Sabaris,1305032009.0,Kurai Taji Timur,1
 88,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130512.0,Padang Sago,1305122003.0,Batu kalang,1
 89,Pekanbaru,Desa Wisata,29 Juli-1 Agustus 2024,13,Sumatera Barat,1305.0,Padang Pariaman,130511.0,Sintuak Toboh Gadang,1305112005.0,Toboh Gadang Timur,2
@@ -402,8 +402,8 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 4,Bengkulu,Desa Wisata,3-6 Juni 2024,16,SUMATERA SELATAN,1612.0,PENUKAL ABAB LEMATANG ILIR,161205.0,TANAH ABANG,1612052010.0,TANAH ABANG SELATAN,2
 5,Bengkulu,Desa Wisata,3-6 Juni 2024,16,SUMATERA SELATAN,1612.0,PENUKAL ABAB LEMATANG ILIR,161204.0,ABAB,1612042002.0,BETUNG BARAT,2
 6,Bengkulu,Desa Wisata,3-6 Juni 2024,16,SUMATERA SELATAN,1612.0,PENUKAL ABAB LEMATANG ILIR,161202.0,PENUKAL UTARA,1612022010.0,TEMPIRAI UTARA,2
-7,Bengkulu,Desa Wisata,3-6 Juni 2024,16,SUMATERA SELATAN,1612.0,PENUKAL ABAB LEMATANG ILIR,,TAPANG UBI,1612012014.0,BENAKAT MINYAK,2
-8,Bengkulu,Desa Wisata,3-6 Juni 2024,16,SUMATERA SELATAN,1612.0,PENUKAL ABAB LEMATANG ILIR,161201.0,TALANG UBI,,KARTADEWA,2
+7,Bengkulu,Desa Wisata,3-6 Juni 2024,16,SUMATERA SELATAN,1612.0,PENUKAL ABAB LEMATANG ILIR,0.0,TAPANG UBI,1612012014.0,BENAKAT MINYAK,2
+8,Bengkulu,Desa Wisata,3-6 Juni 2024,16,SUMATERA SELATAN,1612.0,PENUKAL ABAB LEMATANG ILIR,161201.0,TALANG UBI,0.0,KARTADEWA,2
 9,Bengkulu,Desa Wisata,3-6 Juni 2024,16,SUMATERA SELATAN,1612.0,PENUKAL ABAB LEMATANG ILIR,161203.0,PENUKAL,1612032009.0,SPANTAN JAYA,2
 10,Bengkulu,Desa Wisata,3-6 Juni 2024,16,SUMATERA SELATAN,1612.0,PENUKAL ABAB LEMATANG ILIR,161203.0,PENUKAL,1612032001.0,PURUN,2
 11,Bengkulu,Desa Wisata,3-6 Juni 2024,16,SUMATERA SELATAN,1612.0,PENUKAL ABAB LEMATANG ILIR,161203.0,PENUKAL,1612032004.0,RAJA JAYA,2
@@ -443,7 +443,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 45,Bengkulu,Bum Desa,4-7 Juni 2024,16,SUMATERA SELATAN,1605.0,MUSI RAWAS,160518.0,TIANG PUMPUNG KEPUNGUT,1605182004.0,RANTAU SERIK,2
 46,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160918.0,TIGA DIHAJI,1608042017.0,SUKABUMI,2
 47,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160919.0,BUAY RAWAN,1609192008.0,PEKUOLAN,2
-48,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,117301.0,MUARA DUA,,BATU BELANG II,2
+48,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,117301.0,MUARA DUA,0.0,BATU BELANG II,2
 49,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160909.0,BUAY PEMACA,1609092016.0,TANJUNG JAYA,2
 50,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160912.0,BUAY PEMATANG RIBU RANAU TENGAH,1609122003.0,SUBIK,2
 51,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160913.0,WARKUK RANAU SELATAN,1604012012.0,GUNUNG RAYA,2
@@ -451,81 +451,81 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 53,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160907.0,BUAY RUNJUNG,1602232003.0,SUGIH WARAS,2
 54,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160909.0,BUAY PEMACA,1609092006.0,SERAKAT JAYA,1
 55,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160909.0,BUAY PEMACA,1604302007.0,TALANG PADANG,1
-56,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160909.0,BUAY PEMACA,,DIREKTURE,1
+56,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160909.0,BUAY PEMACA,0.0,DIREKTURE,1
 57,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160905.0,SIMPANG,1608122002.0,TANJUNGSARI,2
 58,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160913.0,WARKUK RANAU SELATAN,1613042013.0,MEKARSARI,2
 59,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160903.0,BANDING AGUNG,1110022024.0,SIDODADI,2
 60,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160905.0,SIMPANG,1609052007.0,LUBAR,2
 61,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160909.0,BUAY PEMACA,1609092015.0,SINAR NAPALAN,1
 62,Bengkulu,Bum Desa,5-8 Juni 2024,16,SUMATERA SELATAN,1609.0,OGAN KOMERING ULU SELATAN,160903.0,BANDING AGUNG,1609032028.0,AIR RUPIK,2
-1,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630312.0,Mataraman,,Takuti ,3
+1,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630312.0,Mataraman,0.0,Takuti ,3
 2,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,160801.0,Martapura,6303052009.0,Sungai Sipai,3
-3,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630315.0,Martapura Timur,,Antasan Senor ,3
-4,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630304.0,Sungai Tabuk,,Pematang Panjang ,3
-5,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,120612.0,Simpang Empat,,Lok Cantung ,3
+3,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630315.0,Martapura Timur,0.0,Antasan Senor ,3
+4,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630304.0,Sungai Tabuk,0.0,Pematang Panjang ,3
+5,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,120612.0,Simpang Empat,0.0,Lok Cantung ,3
 6,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630314.0,Martapura Barat,6303142013.0,Sungai Rangas Tengah,3
-7,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630302.0,Kertak Hanyar,,Manarap Baru ,3
-8,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630306.0,Karang Intan,,Karang Intan ,2
-9,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630306.0,Karang Intan,,Biih ,2
-10,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630313.0,Beruntung Baru,,Salat Makmur ,1
-11,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630304.0,Sungai Tabuk,,Paku Alam ,1
-12,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630703.0,Labuan Amas Selatan,,Taras Padang ,2
+7,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630302.0,Kertak Hanyar,0.0,Manarap Baru ,3
+8,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630306.0,Karang Intan,0.0,Karang Intan ,2
+9,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630306.0,Karang Intan,0.0,Biih ,2
+10,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630313.0,Beruntung Baru,0.0,Salat Makmur ,1
+11,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6303.0,Banjar,630304.0,Sungai Tabuk,0.0,Paku Alam ,1
+12,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630703.0,Labuan Amas Selatan,0.0,Taras Padang ,2
 13,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630703.0,Labuan Amas Selatan,6307032013.0,Jamil,2
-14,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630707.0,Batang Alai Selatan,,Cukan Lipai ,2
-15,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630708.0,Batang Alai Utara,,Haur Gading ,2
-16,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630705.0,Pandawan,,Kayu Rabah ,2
-17,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630711.0,Limpasu,,Kabang ,2
-18,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630701.0,Haruyan,,Lokbuntar ,2
-19,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630702.0,Batu Benawa,,Kahakan ,2
-20,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630702.0,Batu Benawa,,Pantai Batung ,2
-21,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630702.0,Batu Benawa,,Paya Besar ,2
-22,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630702.0,Batu Benawa,,Pagat ,2
-23,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630702.0,Batu Benawa,,Murung A ,2
-24,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630704.0,Labuan Amas Utara,,Parumahan ,2
-25,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630704.0,Labuan Amas Utara,,Kadundung ,2
-26,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630706.0,Barabai,,Kayu Bawang ,2
-27,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630804.0,Amuntai Selatan,,Ilir Mesjid ,2
-28,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630804.0,Amuntai Selatan,,Mamar ,2
-29,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630805.0,Amuntai Tengah,,Tigarun ,2
-30,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630805.0,Amuntai Tengah,,Harusan ,2
+14,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630707.0,Batang Alai Selatan,0.0,Cukan Lipai ,2
+15,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630708.0,Batang Alai Utara,0.0,Haur Gading ,2
+16,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630705.0,Pandawan,0.0,Kayu Rabah ,2
+17,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630711.0,Limpasu,0.0,Kabang ,2
+18,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630701.0,Haruyan,0.0,Lokbuntar ,2
+19,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630702.0,Batu Benawa,0.0,Kahakan ,2
+20,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630702.0,Batu Benawa,0.0,Pantai Batung ,2
+21,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630702.0,Batu Benawa,0.0,Paya Besar ,2
+22,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630702.0,Batu Benawa,0.0,Pagat ,2
+23,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630702.0,Batu Benawa,0.0,Murung A ,2
+24,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630704.0,Labuan Amas Utara,0.0,Parumahan ,2
+25,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630704.0,Labuan Amas Utara,0.0,Kadundung ,2
+26,Banjarmasin,Bum Desa,23 - 26 April 2024,63,Kalimantan Selatan,6307.0,Hulu Sungai Tengah,630706.0,Barabai,0.0,Kayu Bawang ,2
+27,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630804.0,Amuntai Selatan,0.0,Ilir Mesjid ,2
+28,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630804.0,Amuntai Selatan,0.0,Mamar ,2
+29,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630805.0,Amuntai Tengah,0.0,Tigarun ,2
+30,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630805.0,Amuntai Tengah,0.0,Harusan ,2
 31,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630806.0,Amuntai Utara,6308062011.0,Teluk Daun,2
-32,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630806.0,Amuntai Utara,,Muara Baruh ,2
-33,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630806.0,Amuntai Utara,,Air Tawar ,1
-34,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630808.0,Haur Gading,,Sungai Limas ,2
-35,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630808.0,Haur Gading,,Bayur ,2
+32,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630806.0,Amuntai Utara,0.0,Muara Baruh ,2
+33,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630806.0,Amuntai Utara,0.0,Air Tawar ,1
+34,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630808.0,Haur Gading,0.0,Sungai Limas ,2
+35,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630808.0,Haur Gading,0.0,Bayur ,2
 36,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630809.0,Paminggir,6308092002.0,Paminggir Seberang,1
 37,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630809.0,Paminggir,6308092001.0,Paminggir,2
-38,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630809.0,Paminggir,,Sapala ,2
-39,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630803.0,Sungai Pandan,,Sungai Pandan Tengah ,2
-40,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630803.0,Sungai Pandan,,Tambalang Kecil ,2
-41,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630807.0,Banjang,,Beringin ,2
-42,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630807.0,Banjang,,Baruh Tabing ,2
-43,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,,Atap ,6
-44,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,,Tepian ,3
+38,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630809.0,Paminggir,0.0,Sapala ,2
+39,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630803.0,Sungai Pandan,0.0,Sungai Pandan Tengah ,2
+40,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630803.0,Sungai Pandan,0.0,Tambalang Kecil ,2
+41,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630807.0,Banjang,0.0,Beringin ,2
+42,Banjarmasin,Bum Desa,13 - 16 Mei 2024,63,Kalimantan Selatan,6308.0,Hulu Sungai Utara,630807.0,Banjang,0.0,Baruh Tabing ,2
+43,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,0.0,Atap ,6
+44,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,0.0,Tepian ,3
 45,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,6503032008.0,Butas Bagu,3
-46,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,,Pelaju ,2
-47,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,,Pagar ,3
-48,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,,Tagul ,3
-49,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,,Manuk Bungkul ,2
-50,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,,Labuk ,2
-51,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,,Lubakan ,2
-52,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,,Tujung ,2
-53,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650306.0,Sebuku,,Pembeliangan ,2
+46,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,0.0,Pelaju ,2
+47,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,0.0,Pagar ,3
+48,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,0.0,Tagul ,3
+49,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,0.0,Manuk Bungkul ,2
+50,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,0.0,Labuk ,2
+51,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,0.0,Lubakan ,2
+52,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650303.0,Sembakung,0.0,Tujung ,2
+53,Banjarmasin,Bum Desa,13 - 16 Mei 2024,65,Kalimantan Utara,6503.0,Nunukan,650306.0,Sebuku,0.0,Pembeliangan ,2
 54,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,620406.0,Dusun Selatan,6204062014.0,Sanggu,2
 55,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,620406.0,Dusun Selatan,6204062010.0,Sababilah,3
 56,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,620406.0,Dusun Selatan,6204062005.0,Danau Sadar,2
 57,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,620406.0,Dusun Selatan,6204062027.0,Danau Masura,2
 58,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,620406.0,Dusun Selatan,6204062020.0,Kalahien,2
 59,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,620406.0,Dusun Selatan,6204062019.0,Mabuan,2
-60,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,,Gunung Bintang Awai,6204052019.0,Wayun,2
+60,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,0.0,Gunung Bintang Awai,6204052019.0,Wayun,2
 61,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,620402.0,Dusun Hilir,6204022004.0,Kalanis,1
 62,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,620404.0,Dusun Utara,6204042002.0,Majundre,2
-63,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,,Gunung Bintang Awai,6204052009.0,Patas I,3
-64,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,,Gunung Bintang Awai,6204052002.0,Kayumban,1
-65,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,,Gunung Bintang Awai,6204052003.0,Tabak Kanilan,1
-66,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,,Gunung Bintang Awai,6204052006.0,Muka Haji,1
-67,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,,Gunung Bintang Awai,6204052008.0,Muara Singan,3
-68,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,,Gunung Bintang Awai,6204052015.0,Bipak Kali,3
+63,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,0.0,Gunung Bintang Awai,6204052009.0,Patas I,3
+64,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,0.0,Gunung Bintang Awai,6204052002.0,Kayumban,1
+65,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,0.0,Gunung Bintang Awai,6204052003.0,Tabak Kanilan,1
+66,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,0.0,Gunung Bintang Awai,6204052006.0,Muka Haji,1
+67,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,0.0,Gunung Bintang Awai,6204052008.0,Muara Singan,3
+68,Banjarmasin,Bum Desa,27 - 30 Mei 2024,62,Kalimantan Tengah,6204.0,Barito Selatan,0.0,Gunung Bintang Awai,6204052015.0,Bipak Kali,3
 69,Banjarmasin,Bum Desa,27 - 30 Mei 2024,64,Kalimantan Timur,6401.0,Paser,640107.0,Muara Komam,6401072002.0,Batu Botuk,3
 70,Banjarmasin,Bum Desa,27 - 30 Mei 2024,64,Kalimantan Timur,6401.0,Paser,640107.0,Muara Komam,1604282001.0,Muara Payang,3
 71,Banjarmasin,Bum Desa,27 - 30 Mei 2024,64,Kalimantan Timur,6401.0,Paser,640107.0,Muara Komam,6401072011.0,Swan Slutung,3
@@ -543,7 +543,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 83,Banjarmasin,Desa Wisata,27 - 30 Mei 2024,63,Kalimantan Selatan,6310.0,Tanah Bumbu,360107.0,Angsana,1602212008.0,Sumber Baru,5
 84,Banjarmasin,Desa Wisata,27 - 30 Mei 2024,63,Kalimantan Selatan,6310.0,Tanah Bumbu,360107.0,Angsana,1116082017.0,Mekar Jaya,4
 85,Banjarmasin,Desa Wisata,27 - 30 Mei 2024,63,Kalimantan Selatan,6310.0,Tanah Bumbu,360107.0,Angsana,6310092001.0,Bunati,5
-86,Banjarmasin,Desa Wisata,27 - 30 Mei 2024,63,Kalimantan Selatan,6310.0,Tanah Bumbu,631003.0,Sungai Loban,,Sungai Loban,5
+86,Banjarmasin,Desa Wisata,27 - 30 Mei 2024,63,Kalimantan Selatan,6310.0,Tanah Bumbu,631003.0,Sungai Loban,0.0,Sungai Loban,5
 1,Denpasar,Desa Wisata,18-21 Maret 2024,53,NUSA TENGGARA TIMUR,5310.0,MANGGARAI,531003.0,RUTENG,5310032020.0,MELER,5
 2,Denpasar,Desa Wisata,18-21 Maret 2024,53,NUSA TENGGARA TIMUR,5310.0,MANGGARAI,531003.0,RUTENG,3310152008.0,BULAN,5
 3,Denpasar,Desa Wisata,18-21 Maret 2024,53,NUSA TENGGARA TIMUR,5310.0,MANGGARAI,531003.0,RUTENG,5310032022.0,BELANG TURI,5
@@ -558,10 +558,10 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 12,Denpasar,Desa Wisata,25-28 Maret 2024,51,Bali,5108.0,Buleleng,510809.0,Tejakula,5108092006.0,Tejakula,5
 13,Denpasar,Desa Wisata,13-16 Mei 2024,52,NUSA TENGGARA BARAT,5208.0,Lombok Utara,330608.0,Bayan,5208042006.0,Senaru,5
 14,Denpasar,Desa Wisata,13-16 Mei 2024,52,NUSA TENGGARA BARAT,5208.0,Lombok Utara,332913.0,Tanjung,5208012003.0,Jenggala,5
-15,Denpasar,Desa Wisata,13-16 Mei 2024,52,NUSA TENGGARA BARAT,5208.0,Lombok Utara,332913.0,Tanjung,,Samaguna,5
+15,Denpasar,Desa Wisata,13-16 Mei 2024,52,NUSA TENGGARA BARAT,5208.0,Lombok Utara,332913.0,Tanjung,0.0,Samaguna,5
 16,Denpasar,Desa Wisata,13-16 Mei 2024,52,NUSA TENGGARA BARAT,5208.0,Lombok Utara,520802.0,Gangga,5208022003.0,Genggelang,5
 17,Denpasar,Desa Wisata,13-16 Mei 2024,52,NUSA TENGGARA BARAT,5208.0,Lombok Utara,520805.0,Pemenang,1101132004.0,Malaka,5
-18,Denpasar,Desa Wisata,13-16 Mei 2024,52,NUSA TENGGARA BARAT,5208.0,Lombok Utara,520805.0,Pemenang,,Pemenang Bara,5
+18,Denpasar,Desa Wisata,13-16 Mei 2024,52,NUSA TENGGARA BARAT,5208.0,Lombok Utara,520805.0,Pemenang,0.0,Pemenang Bara,5
 19,Denpasar,Desa Wisata,12-15 Juni 2024,51,Bali,5102.0,Tabanan,510209.0,Baturiti,5102092004.0,ANGSERI,5
 20,Denpasar,Desa Wisata,12-15 Juni 2024,51,Bali,5102.0,Tabanan,510208.0,Penebel,5102082011.0,BABAHAN,5
 21,Denpasar,Desa Wisata,12-15 Juni 2024,51,Bali,5102.0,Tabanan,510210.0,Pupuan,1402082007.0,BELIMBING,5
@@ -574,7 +574,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 28,Denpasar,Bum Desa,6-9 Juni 2024,51,Bali,5105.0,Klungkung,510503.0,Klungkung,1504052011.0,Selat,5
 29,Denpasar,Bum Desa,6-9 Juni 2024,51,Bali,5105.0,Klungkung,510503.0,Klungkung,5105032001.0,Satra,5
 30,Denpasar,Bum Desa,6-9 Juni 2024,51,Bali,5105.0,Klungkung,510502.0,Banjarangkan,5105022006.0,Getakan,5
-31,Denpasar,Bum Desa,24-27 April 2024,52,NUSA TENGGARA BARAT,5203.0,LOMBOK TIMUR,520312.0,PRINGGASELA,,DENGGEN TIMUR,5
+31,Denpasar,Bum Desa,24-27 April 2024,52,NUSA TENGGARA BARAT,5203.0,LOMBOK TIMUR,520312.0,PRINGGASELA,0.0,DENGGEN TIMUR,5
 32,Denpasar,Bum Desa,24-27 April 2024,52,NUSA TENGGARA BARAT,5203.0,LOMBOK TIMUR,520312.0,PRINGGASELA,5203172003.0,TEROS,5
 33,Denpasar,Bum Desa,24-27 April 2024,52,NUSA TENGGARA BARAT,5203.0,LOMBOK TIMUR,520312.0,PRINGGASELA,5203172001.0,LABUHAN HAJI,5
 34,Denpasar,Bum Desa,24-27 April 2024,52,NUSA TENGGARA BARAT,5203.0,LOMBOK TIMUR,520312.0,PRINGGASELA,5203122007.0,PRINGGASELA SELATAN,5
@@ -587,20 +587,20 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 41,Denpasar,Bum Desa,20-23 April 2024,51,Bali,5106.0,Bangli,510601.0,Susut,5106012006.0,Penglumbaran,5
 42,Denpasar,Bum Desa,20-23 April 2024,51,Bali,5106.0,Bangli,510603.0,Tembuku,1504062002.0,Peninjauan,5
 1,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730508.0,Sanrobone,7305082005.0,Ujung Baji,2
-2,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730503.0,Polongbangkeng Selatan,,Lingk Bone-Bone,1
+2,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730503.0,Polongbangkeng Selatan,0.0,Lingk Bone-Bone,1
 3,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730506.0,Galesong Utara,7305062001.0,Pakkabba,1
-4,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730503.0,Polongbangkeng selatan,,Lingk Tengko,1
-5,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730504.0,Polongbangkeng Utara,,Tompopadalle,1
-6,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730504.0,Polongbangkeng Utara,,Bulu Bumbung,1
-7,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi selatan,7305.0,Takalar,730504.0,Polongbangkeng Utara,,Manongkoki,1
-8,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730506.0,Galesong Utara,,Aeng Batu-Batu,1
+4,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730503.0,Polongbangkeng selatan,0.0,Lingk Tengko,1
+5,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730504.0,Polongbangkeng Utara,0.0,Tompopadalle,1
+6,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730504.0,Polongbangkeng Utara,0.0,Bulu Bumbung,1
+7,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi selatan,7305.0,Takalar,730504.0,Polongbangkeng Utara,0.0,Manongkoki,1
+8,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730506.0,Galesong Utara,0.0,Aeng Batu-Batu,1
 9,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730505.0,Galesong Selatan,7305052009.0,Bontokassi,1
-10,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730501.0,Mappakasunggu,,Pabatangang,1
+10,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730501.0,Mappakasunggu,0.0,Pabatangang,1
 11,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730506.0,Galesong Utara,7305062016.0,Kaballokang Pakkabba,2
 12,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730508.0,Sanrobone,7305082001.0,Laguruda,1
-13,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730501.0,Mappakasunggu,,Lingk Cilallang,1
+13,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730501.0,Mappakasunggu,0.0,Lingk Cilallang,1
 14,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730503.0,Polongbangkeng Selatan,7305032008.0,Lantang,1
-15,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730501.0,Mappakasunggu,,Lingk Bantilang,1
+15,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730501.0,Mappakasunggu,0.0,Lingk Bantilang,1
 16,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730503.0,Polongbangkeng Selatan,7305032009.0,Su'rulangi,1
 17,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730511.0,Polongbangkeng Timur,7305112003.0,Barugaya,1
 18,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730506.0,Galesong Utara,7305062006.0,Tamasaju,1
@@ -608,11 +608,11 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 20,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730506.0,Galesong Utara,7301022003.0,Bontosunggu,1
 21,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730509.0,Galesong,7305092003.0,Bontoloe,1
 22,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730509.0,Galesong,7305092002.0,Galesong Kota,1
-23,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,,Polombangkeng Timur,,Komara,1
+23,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,0.0,Polombangkeng Timur,0.0,Komara,1
 24,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730504.0,Polongbangkeng Utara,7305042007.0,Lassang,1
 25,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730505.0,Galesong Selatan,7305052019.0,Kale Bentang,1
 26,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730508.0,Sanrobone,7305082003.0,Sanrobone,1
-27,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730505.0,Galesong Selatan,,Pa'la'lakkang,1
+27,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730505.0,Galesong Selatan,0.0,Pa'la'lakkang,1
 28,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7305.0,Takalar,730502.0,Mangarabombang,7305122006.0,Laikang,1
 29,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7312.0,Soppeng,731201.0,Marioriwawo,7302012006.0,Gattareng,2
 30,Makassar,Bum Desa,13-16 Mei 2024,73,Sulawesi Selatan,7312.0,Soppeng,731201.0,Marioriwawo,7308092014.0,Watu,2
@@ -652,12 +652,12 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 64,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,760108.0,Tikke Raya,7601082001.0,Tikke,2
 65,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,760102.0,Pasangkayu,7601022015.0,Ako,2
 66,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,760109.0,Pedongga,7601092003.0,Batu Oge,2
-67,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,,Bulutaba,7601072006.0,Lelejae,2
-68,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,760110.0,Bambaira,,Kalukunangka,2
-69,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,760104.0,Sarudu,,Bulumario,2
+67,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,0.0,Bulutaba,7601072006.0,Lelejae,2
+68,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,760110.0,Bambaira,0.0,Kalukunangka,2
+69,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,760104.0,Sarudu,0.0,Bulumario,2
 70,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,760102.0,Pasangkayu,7203042015.0,Pakava,2
 71,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,760102.0,Pasangkayu,6202042025.0,Karya Bersama,2
-72,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,,Bulutaba,7601072004.0,Kastabuana,2
+72,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,0.0,Bulutaba,7601072004.0,Kastabuana,2
 73,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,760110.0,Bambaira,7601102001.0,Bambaira,2
 74,Makassar,Bum Desa,13-16 Mei 2024,76,Sulawesi Barat,7601.0,Pasangkayu,760111.0,Sarjo,7601112001.0,Sarjo,2
 75,Makassar,Desa Wisata,29 April - 2 Mei 2024,73,Sulawesi Selatan,7308.0,Bone,730815.0,Palakka,7308152004.0,Ureng,2
@@ -670,7 +670,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 82,Makassar,Desa Wisata,29 April - 2 Mei 2024,73,Sulawesi Selatan,7308.0,Bone,730814.0,Ulaweng,7308142003.0,Cani Sirenreng,2
 83,Makassar,Desa Wisata,29 April - 2 Mei 2024,73,Sulawesi Selatan,7308.0,Bone,730826.0,Bengo,7308262006.0,Lili Riawang,2
 84,Makassar,Desa Wisata,29 April - 2 Mei 2024,73,Sulawesi Selatan,7308.0,Bone,730815.0,Palakka,7308152014.0,Lemoape,1
-85,Makassar,Desa Wisata,29 April - 2 Mei 2024,73,Sulawesi Selatan,7308.0,Bone,730824.0,Amali,,Ta'cipong,2
+85,Makassar,Desa Wisata,29 April - 2 Mei 2024,73,Sulawesi Selatan,7308.0,Bone,730824.0,Amali,0.0,Ta'cipong,2
 86,Makassar,Desa Wisata,29 April - 2 Mei 2024,73,Sulawesi Selatan,7308.0,Bone,730826.0,Bengo,7308262003.0,Selli,2
 87,Makassar,Desa Wisata,29 April - 2 Mei 2024,73,Sulawesi Selatan,7308.0,Bone,730824.0,Amali,7308242004.0,Waempubbu,2
 88,Makassar,Desa Wisata,29 April - 2 Mei 2024,73,Sulawesi Selatan,7308.0,Bone,730815.0,Palakka,7308152005.0,Usa,2
@@ -679,7 +679,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 91,Makassar,Desa Wisata,29 April - 2 Mei 2024,72,Sulawesi Tengah,7201.0,Banggai,720114.0,Moilong,7201142008.0,Minahaki,2
 92,Makassar,Desa Wisata,29 April - 2 Mei 2024,72,Sulawesi Tengah,7201.0,Banggai,720114.0,Moilong,1608172012.0,Argomulyo,2
 93,Makassar,Desa Wisata,29 April - 2 Mei 2024,72,Sulawesi Tengah,7201.0,Banggai,720112.0,Toili barat,1602232012.0,Bumi harapan,2
-94,Makassar,Desa Wisata,29 April - 2 Mei 2024,72,Sulawesi Tengah,7201.0,Banggai,,Toili Jaya,7201092041.0,Sindang Baru,2
+94,Makassar,Desa Wisata,29 April - 2 Mei 2024,72,Sulawesi Tengah,7201.0,Banggai,0.0,Toili Jaya,7201092041.0,Sindang Baru,2
 95,Makassar,Desa Wisata,29 April - 2 Mei 2024,72,Sulawesi Tengah,7201.0,Banggai,720115.0,Batui Selatan,7201152003.0,Sinorang,2
 96,Makassar,Desa Wisata,29 April - 2 Mei 2024,72,Sulawesi Tengah,7201.0,Banggai,720113.0,Nuhon,3516032014.0,Petak,2
 97,Makassar,Desa Wisata,29 April - 2 Mei 2024,72,Sulawesi Tengah,7201.0,Banggai,720111.0,Luwuk Timur,7201112002.0,Pohi,2
@@ -696,7 +696,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 4,Ambon,Perencanaan Partisipatif,6-9 Maret 2024,81,Maluku,8101.0,Maluku Tengah,810112.0,Saparua,8101122004.0,Haria,6
 5,Ambon,Perencanaan Partisipatif,6-9 Maret 2024,81,Maluku,8101.0,Maluku Tengah,810112.0,Saparua,8101122003.0,Tiouw,4
 6,Ambon,Perencanaan Partisipatif,6-9 Maret 2024,81,Maluku,8101.0,Maluku Tengah,810112.0,Saparua,8101122012.0,Saparua,4
-7,Ambon,Bum Desa,6-9 Maret 2024,81,Maluku,8105.0,Seram Bagian Timur,810515.0,Teluk Waru,,Belis,6
+7,Ambon,Bum Desa,6-9 Maret 2024,81,Maluku,8105.0,Seram Bagian Timur,810515.0,Teluk Waru,0.0,Belis,6
 8,Ambon,Bum Desa,6-9 Maret 2024,81,Maluku,8105.0,Seram Bagian Timur,810515.0,Teluk Waru,8105152010.0,Boinfia,6
 9,Ambon,Bum Desa,6-9 Maret 2024,81,Maluku,8105.0,Seram Bagian Timur,810515.0,Teluk Waru,8105152003.0,Dawang,6
 10,Ambon,Bum Desa,6-9 Maret 2024,81,Maluku,8105.0,Seram Bagian Timur,810515.0,Teluk Waru,8105152004.0,Solang,6
@@ -727,10 +727,10 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 35,Ambon,Perencanaan Partisipatif,23-26 Juli 2024,81,Maluku,8106.0,Seram Bagian Barat,810601.0,Kairatu,8106012012.0,Hatusua,7
 36,Ambon,Perencanaan Partisipatif,23-26 Juli 2024,81,Maluku,8106.0,Seram Bagian Barat,810601.0,Kairatu,8106012008.0,Kamarian,8
 37,Ambon,Perencanaan Partisipatif,23-26 Juli 2024,81,Maluku,8106.0,Seram Bagian Barat,810601.0,Kairatu,8106012014.0,Waipirit,7
-38,Ambon,Perencanaan Partisipatif,30 Juli - 2 Agustus 2024,81,Maluku,8106.0,Seram Bagian Barat,810607.0,Kairatu Barat,,Waisarissa,5
+38,Ambon,Perencanaan Partisipatif,30 Juli - 2 Agustus 2024,81,Maluku,8106.0,Seram Bagian Barat,810607.0,Kairatu Barat,0.0,Waisarissa,5
 39,Ambon,Perencanaan Partisipatif,30 Juli - 2 Agustus 2024,81,Maluku,8106.0,Seram Bagian Barat,810607.0,Kairatu Barat,1610102003.0,Kamal,5
 40,Ambon,Perencanaan Partisipatif,30 Juli - 2 Agustus 2024,81,Maluku,8106.0,Seram Bagian Barat,810607.0,Kairatu Barat,8106072004.0,Nuruwe,5
-41,Ambon,Perencanaan Partisipatif,30 Juli - 2 Agustus 2024,81,Maluku,8106.0,Seram Bagian Barat,810607.0,Kairatu Barat,,Waesamu,5
+41,Ambon,Perencanaan Partisipatif,30 Juli - 2 Agustus 2024,81,Maluku,8106.0,Seram Bagian Barat,810607.0,Kairatu Barat,0.0,Waesamu,5
 42,Ambon,Perencanaan Partisipatif,30 Juli - 2 Agustus 2024,81,Maluku,8106.0,Seram Bagian Barat,810607.0,Kairatu Barat,8106072001.0,Waihatu,5
 43,Ambon,Perencanaan Partisipatif,30 Juli - 2 Agustus 2024,81,Maluku,8106.0,Seram Bagian Barat,810607.0,Kairatu Barat,8106072002.0,Lohiatala,5
 1,Jayapura,KPMD,4-7 Juni 2024,91,Papua,9105.0,Kepulauan Yapen,910510.0,Kepulauan Ambai,9105102011.0,Rondepi,3
@@ -739,7 +739,7 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 4,Jayapura,KPMD,4-7 Juni 2024,91,Papua,9105.0,Kepulauan Yapen,910510.0,Kepulauan Ambai,9105102006.0,Adiwipi,2
 5,Jayapura,KPMD,4-7 Juni 2024,91,Papua,9105.0,Kepulauan Yapen,910510.0,Kepulauan Ambai,9105102005.0,Wamori,2
 6,Jayapura,KPMD,4-7 Juni 2024,91,Papua,9105.0,Kepulauan Yapen,910510.0,Kepulauan Ambai,9105102001.0,Ambai I,2
-7,Jayapura,KPMD,4-7 Juni 2024,91,Papua,9105.0,Kepulauan Yapen,910510.0,Kepulauan Ambai,,Aiwaranggani,3
+7,Jayapura,KPMD,4-7 Juni 2024,91,Papua,9105.0,Kepulauan Yapen,910510.0,Kepulauan Ambai,0.0,Aiwaranggani,3
 8,Jayapura,KPMD,4-7 Juni 2024,91,Papua,9105.0,Kepulauan Yapen,910510.0,Kepulauan Ambai,9105102014.0,Imboriawa,2
 9,Jayapura,KPMD,4-7 Juni 2024,91,Papua,9105.0,Kepulauan Yapen,910510.0,Kepulauan Ambai,9105102009.0,Mambawi,2
 10,Jayapura,KPMD,4-7 Juni 2024,91,Papua,9105.0,Kepulauan Yapen,910510.0,Kepulauan Ambai,9105102017.0,Toroa,3
@@ -752,9 +752,9 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 17,Jayapura,Bum Desa,4-7 Juni 2024,91,Papua,9111.0,Keerom,911102.0,Arso,9111022002.0,Workwana,6
 18,Jayapura,Bum Desa,4-7 Juni 2024,91,Papua,9111.0,Keerom,911102.0,Arso,9111022012.0,Yamta,6
 19,Jayapura,Bum Desa,10-13 Juli 2024,93,Papua Selatan,9301.0,Merauke,930114.0,Malind,9301142001.0,Kumbe,30
-20,Jayapura,Bum Desa,10-13 Juli 2024,91,Papua,9110.0,Sarmi,911001.0,Sarmi,,Armo Pesisir,4
+20,Jayapura,Bum Desa,10-13 Juli 2024,91,Papua,9110.0,Sarmi,911001.0,Sarmi,0.0,Armo Pesisir,4
 21,Jayapura,Bum Desa,10-13 Juli 2024,91,Papua,9110.0,Sarmi,911001.0,Sarmi,9110012007.0,Bagaiserwar,4
-22,Jayapura,Bum Desa,10-13 Juli 2024,91,Papua,9110.0,Sarmi,911001.0,Sarmi,,Tafarewar,4
+22,Jayapura,Bum Desa,10-13 Juli 2024,91,Papua,9110.0,Sarmi,911001.0,Sarmi,0.0,Tafarewar,4
 23,Jayapura,Bum Desa,10-13 Juli 2024,91,Papua,9110.0,Sarmi,911001.0,Sarmi,9110012006.0,Sawar,4
 24,Jayapura,Bum Desa,10-13 Juli 2024,91,Papua,9110.0,Sarmi,911001.0,Sarmi,9110012020.0,Lembah Neidam,4
 25,Jayapura,Bum Desa,10-13 Juli 2024,91,Papua,9110.0,Sarmi,911001.0,Sarmi,9110012003.0,Sarmo,4
@@ -769,5 +769,5 @@ NO,NAMA_BALAI,JENIS_PELATIHAN,WAKTU_PELAKSANAAN,ID_PROVINSI,PROVINSI,ID_KABUPATE
 34,Jayapura,Desa Wisata,17-20 Juli 2024,91,Papua,9103.0,Jayapura,910319.0,Yokari,9103192005.0,BUSERYO,3
 35,Jayapura,Desa Wisata,17-20 Juli 2024,91,Papua,9103.0,Jayapura,910319.0,Yokari,9103192002.0,MEUKISI,1
 36,Jayapura,Desa Wisata,17-20 Juli 2024,91,Papua,9103.0,Jayapura,910319.0,Yokari,9103192003.0,ENDOKISI,7
-37,Jayapura,Desa Wisata,17-20 Juli 2024,91,Papua,9103.0,Jayapura,910319.0,Yokari,,BUKISI,7
+37,Jayapura,Desa Wisata,17-20 Juli 2024,91,Papua,9103.0,Jayapura,910319.0,Yokari,0.0,BUKISI,7
 38,Jayapura,Desa Wisata,17-20 Juli 2024,91,Papua,9103.0,Jayapura,910319.0,Yokari,9103192002.0,MEUKISI,6

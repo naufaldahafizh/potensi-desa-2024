@@ -1,159 +1,159 @@
 KODE_PROVINSI,NAMA_PROVINSI,KODE_KAB,NAMA_KABUPATEN,JUMLAH_DESA,NOMINAL_BANTUAN,JENIS_BANTUAN
-11.0,ACEH,1106.0,ACEH BESAR,1.0,,"Pembangunan Homestay, dan Pembangunan sarana prasaran pendukung lainnya (Paving dan Talud)"
-11.0,ACEH,1104.0,ACEH TENGAH,1.0,,Pembangunan Balai Kesenian dan Bangunan Pendukung (Paving)
-11.0,ACEH,1107.0,PIDIE,1.0,,"Pembangunan Toilet Umum, Pembangunan Gazebo, dan Pembangunan Pedestrian"
-11.0,ACEH,1111.0,BIREUEN,1.0,,Pembangunan Gazebo dan Pembangunan Kios
-36.0,BANTEN,3604.0,SERANG,1.0,,"Pembangunan Saung/Gazebo, Pembangunan Toilet Umum"
-15.0,JAMBI,1505.0,MUARO JAMBI,1.0,,Pembangunan Balai Kesenian
-15.0,JAMBI,1509.0,TEBO,1.0,,Pembangunan Kolam Pemandian
-32.0,JAWA BARAT,3204.0,BANDUNG,6.0,,"- Pembangunan Kios/Kedai dan Pembangunan Toilet Umum
+11.0,ACEH,1106.0,ACEH BESAR,1.0,0.0,"Pembangunan Homestay, dan Pembangunan sarana prasaran pendukung lainnya (Paving dan Talud)"
+11.0,ACEH,1104.0,ACEH TENGAH,1.0,0.0,Pembangunan Balai Kesenian dan Bangunan Pendukung (Paving)
+11.0,ACEH,1107.0,PIDIE,1.0,0.0,"Pembangunan Toilet Umum, Pembangunan Gazebo, dan Pembangunan Pedestrian"
+11.0,ACEH,1111.0,BIREUEN,1.0,0.0,Pembangunan Gazebo dan Pembangunan Kios
+36.0,BANTEN,3604.0,SERANG,1.0,0.0,"Pembangunan Saung/Gazebo, Pembangunan Toilet Umum"
+15.0,JAMBI,1505.0,MUARO JAMBI,1.0,0.0,Pembangunan Balai Kesenian
+15.0,JAMBI,1509.0,TEBO,1.0,0.0,Pembangunan Kolam Pemandian
+32.0,JAWA BARAT,3204.0,BANDUNG,6.0,0.0,"- Pembangunan Kios/Kedai dan Pembangunan Toilet Umum
 - Pembangunan Gazebo dan Pembangunan Toilet
 - Pembangunan Gazebo/Saung dan Pembangunan Toilet
 - Pembangunan Kios/Kedai dan Pembangunan Toilet 
 - Pembangunan Homestay, Pembangunan Toilet dan Pembangunan Gazebo/Saung
 - Pembangunan Toilet, Pembangunan Gazebo, dan Pembangunan Kios"
-32.0,JAWA BARAT,3201.0,BOGOR,2.0,,"- Pembangunan Balai Kesenian
+32.0,JAWA BARAT,3201.0,BOGOR,2.0,0.0,"- Pembangunan Balai Kesenian
 - Pembangunan Balai Kesenian Tradisional, Pembangunan Gazebo, dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Jalan Pedestrian)"
-32.0,JAWA BARAT,3207.0,CIAMIS,2.0,,"- Pembangunan Balai Kesenian Tradisional
+32.0,JAWA BARAT,3207.0,CIAMIS,2.0,0.0,"- Pembangunan Balai Kesenian Tradisional
 - Pembangunan Gazebo/Saung dan Pembangunan Homestay"
-32.0,JAWA BARAT,3203.0,CIANJUR,2.0,,"- Pembangunan Kolam Pemandian, Pembangunan Toilet Umum,  dan Pembangunan Sarana dan Prasarana Pendukung (TPT dan Pagar)
+32.0,JAWA BARAT,3203.0,CIANJUR,2.0,0.0,"- Pembangunan Kolam Pemandian, Pembangunan Toilet Umum,  dan Pembangunan Sarana dan Prasarana Pendukung (TPT dan Pagar)
 - Pembangunan Homestay 1, Pembangunan Toilet Umum 1, Pembangunan Gazebo 1"
-32.0,JAWA BARAT,3212.0,INDRAMAYU,2.0,,"- Pembangunan Saung/Gazebo, Pembangunan Kios/Kedai, Pembangunan Toilet Umum dan Pembangunan Joging Track
+32.0,JAWA BARAT,3212.0,INDRAMAYU,2.0,0.0,"- Pembangunan Saung/Gazebo, Pembangunan Kios/Kedai, Pembangunan Toilet Umum dan Pembangunan Joging Track
 - Pembangunan Kios/Kedai"
-32.0,JAWA BARAT,3211.0,SUMEDANG,1.0,,Pembangunan Kios/Kedai-Kedai dan Pembangunan Gazebo/Saung
-32.0,JAWA BARAT,3206.0,TASIKMALAYA,2.0,,"- Pembangunan Balai Kesenian Tradisional dan Pembangunan Sarana dan Prasarana Pendukung (Jalan)
+32.0,JAWA BARAT,3211.0,SUMEDANG,1.0,0.0,Pembangunan Kios/Kedai-Kedai dan Pembangunan Gazebo/Saung
+32.0,JAWA BARAT,3206.0,TASIKMALAYA,2.0,0.0,"- Pembangunan Balai Kesenian Tradisional dan Pembangunan Sarana dan Prasarana Pendukung (Jalan)
 - Pembangunan Balai Kesenian, Pembangunan Saung/Gazebo dan Pembangunan Pedestrian"
-33.0,JAWA TENGAH,3304.0,BANJARNEGARA,2.0,,"Pembangunan Homestay, Pembangunan Toilet dan Pembangunan Sarana Pendukung (Talud dan Parkir)
+33.0,JAWA TENGAH,3304.0,BANJARNEGARA,2.0,0.0,"Pembangunan Homestay, Pembangunan Toilet dan Pembangunan Sarana Pendukung (Talud dan Parkir)
 Pembangunan Kios"
-33.0,JAWA TENGAH,3302.0,BANYUMAS,2.0,,"Pembangunan Balai Kesenian Tradisional
+33.0,JAWA TENGAH,3302.0,BANYUMAS,2.0,0.0,"Pembangunan Balai Kesenian Tradisional
 Pembangunan Gazebo dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Pedestrian)"
-33.0,JAWA TENGAH,3329.0,BREBES,1.0,,Pembanguan Kios/Kedai-Kedai
-33.0,JAWA TENGAH,3320.0,JEPARA,1.0,,Pembangunan Balai Kesenian Tradisional
-33.0,JAWA TENGAH,3324.0,KENDAL,3.0,,"Pembangunan Balai Kesenian Tradisional
+33.0,JAWA TENGAH,3329.0,BREBES,1.0,0.0,Pembanguan Kios/Kedai-Kedai
+33.0,JAWA TENGAH,3320.0,JEPARA,1.0,0.0,Pembangunan Balai Kesenian Tradisional
+33.0,JAWA TENGAH,3324.0,KENDAL,3.0,0.0,"Pembangunan Balai Kesenian Tradisional
 Pembangunan Kolam Pemandian
 Pembangunan Kolam Pemandian"
-33.0,JAWA TENGAH,3310.0,KLATEN,1.0,,Pembangunan Balai Kesenian Tradisional
-33.0,JAWA TENGAH,3308.0,MAGELANG,2.0,,"Pembangunan Balai Kesenian Tradisional
+33.0,JAWA TENGAH,3310.0,KLATEN,1.0,0.0,Pembangunan Balai Kesenian Tradisional
+33.0,JAWA TENGAH,3308.0,MAGELANG,2.0,0.0,"Pembangunan Balai Kesenian Tradisional
 Pembangunan Gazebo dan Pembangunan Area Parkir"
-33.0,JAWA TENGAH,3318.0,PATI,1.0,,"Pembangunan Gazebo/Saung, Pembangunan Kios dan Pembangunan Jalur Track"
-33.0,JAWA TENGAH,3306.0,PURWOREJO,1.0,,"Pembangunan Toilet, Pembangunan Gazebo, Kios dan Pembangunan Sarana Pendukung Lainnya (Papan Wisata, Loket dan Jalan Paving)"
-33.0,JAWA TENGAH,3322.0,SEMARANG,4.0,,"Pembangunan Kolam Pemandian dan Pembangunan Toilet Umum
+33.0,JAWA TENGAH,3318.0,PATI,1.0,0.0,"Pembangunan Gazebo/Saung, Pembangunan Kios dan Pembangunan Jalur Track"
+33.0,JAWA TENGAH,3306.0,PURWOREJO,1.0,0.0,"Pembangunan Toilet, Pembangunan Gazebo, Kios dan Pembangunan Sarana Pendukung Lainnya (Papan Wisata, Loket dan Jalan Paving)"
+33.0,JAWA TENGAH,3322.0,SEMARANG,4.0,0.0,"Pembangunan Kolam Pemandian dan Pembangunan Toilet Umum
 Pembangunan Gazebo Besar dan Gazebo Kecil 
 Pembangunan Kedai/Kios
 Pembangunan Homestay, Pembangunan Toilet Umum"
-33.0,JAWA TENGAH,3314.0,SRAGEN,2.0,,"Pembangunan Kios/Kedai dan Pembangunan Pedestrian
+33.0,JAWA TENGAH,3314.0,SRAGEN,2.0,0.0,"Pembangunan Kios/Kedai dan Pembangunan Pedestrian
 Pembangunan Saung/Gazebo dan Pembangunan Pedestrian"
-33.0,JAWA TENGAH,3307.0,WONOSOBO,1.0,,"Pembangunan Gazebo Besar, Pembangunan Gazebo Kecil, dan Pembangunan Toilet"
-35.0,JAWA TIMUR,3526.0,BANGKALAN,3.0,,"Pembangunan Balai Kesenian
+33.0,JAWA TENGAH,3307.0,WONOSOBO,1.0,0.0,"Pembangunan Gazebo Besar, Pembangunan Gazebo Kecil, dan Pembangunan Toilet"
+35.0,JAWA TIMUR,3526.0,BANGKALAN,3.0,0.0,"Pembangunan Balai Kesenian
 Pembangunan Kios/Kedai, Pembangunan Gazebo/Saung dan Pembangunan Sarana Pendukung
 Pembangunan Kios/Kedai, dan Pembangunan Gazebo/Saung"
-35.0,JAWA TIMUR,3510.0,BANYUWANGI,3.0,,"Pembangunan Kios/Kedai-Kedai, Pembangunan Gazebo/Saung, dan Pembangunan Toilet Umum
+35.0,JAWA TIMUR,3510.0,BANYUWANGI,3.0,0.0,"Pembangunan Kios/Kedai-Kedai, Pembangunan Gazebo/Saung, dan Pembangunan Toilet Umum
 Pembangunan Balai Kesenian Tradisional, Pembangunan Gazebo/Saung, dan Pembangunan Kios/Kedai-Kedai
 Pembangunan Kios/Kedai-Kedai"
-35.0,JAWA TIMUR,3505.0,BLITAR,2.0,,"Pembangunan Gazebo/Saung, Pembangunan Kedai
+35.0,JAWA TIMUR,3505.0,BLITAR,2.0,0.0,"Pembangunan Gazebo/Saung, Pembangunan Kedai
 Pembangunan Kedai dan Bangunan Pendukung (jalan paving)"
-35.0,JAWA TIMUR,3525.0,GRESIK,1.0,,Pembangunan Gazebo
-35.0,JAWA TIMUR,3509.0,JEMBER,1.0,,Pembangunan Balai Kesenian
-35.0,JAWA TIMUR,3517.0,JOMBANG,4.0,,"Pembangunan Balai Kesenian, Pembangunan toilet, Pembangunan Kios
+35.0,JAWA TIMUR,3525.0,GRESIK,1.0,0.0,Pembangunan Gazebo
+35.0,JAWA TIMUR,3509.0,JEMBER,1.0,0.0,Pembangunan Balai Kesenian
+35.0,JAWA TIMUR,3517.0,JOMBANG,4.0,0.0,"Pembangunan Balai Kesenian, Pembangunan toilet, Pembangunan Kios
 Kolam Renang, Bangunan Pendukung (seluncur air)
 Pembangunan Kedai/Kios, Bangunan Pendukung (gapura), Bangunan Pendukung (Paving Blok)
 Pembangunan Kedai/Kios"
-35.0,JAWA TIMUR,3506.0,KEDIRI,4.0,,"Pembangunan Kedai, Pembangunan Gazebo Kecil, dan Pembangunan Gazebo Besar
+35.0,JAWA TIMUR,3506.0,KEDIRI,4.0,0.0,"Pembangunan Kedai, Pembangunan Gazebo Kecil, dan Pembangunan Gazebo Besar
 Pembangunan Kedai dan Pembangunan Wahana Sepeda
 Pembangunan Gazebo dan Pembangunan Toilet UmumPembangunan Homestay (Rumah Kerucut), Pembangunan Wahana Permainan Sepeda, Pembangunan Sarana Pejalan Kaki, dan Pembangunan TPT/Talud"
-35.0,JAWA TIMUR,3519.0,MADIUN,5.0,,"Pembangunan Kedai/Kios, Pembangunan Toilet Umum, dan Pembangunan Gazebo
+35.0,JAWA TIMUR,3519.0,MADIUN,5.0,0.0,"Pembangunan Kedai/Kios, Pembangunan Toilet Umum, dan Pembangunan Gazebo
 Pembangunan Gazebo, Pembangunan Toilet Umum, dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (paving block, lahan parkir, gapura)
 Pembangunan Kios/Kedai, Pembangunan Gazebo, dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Paving Block)
 Pembangunan Gazebo Besar, Pembangunan Gazebo Kecil, dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (paving block)
 Pembangunan Kedai/Kios dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Saluran dan Paving Block)"
-35.0,JAWA TIMUR,3516.0,MOJOKERTO,2.0,,"Pembangunan Homestay
+35.0,JAWA TIMUR,3516.0,MOJOKERTO,2.0,0.0,"Pembangunan Homestay
 Pembangunan Gazebo, Pembangunan Kios/Kedai, dan Pembangunan Sarana Pendukung"
-35.0,JAWA TIMUR,3518.0,NGANJUK,1.0,,"Pembangunan Kios, Pembangunan Toilet, Pembangunan Lot Parkir dan Pembangunan Sarana dan Prasarana Pendukung Lainnya"
-35.0,JAWA TIMUR,3521.0,NGAWI,2.0,,"Pembangunan Kios/Kedai, Pembangunan Gazebo/Saung, dan Pembangunan Toilet Umum
+35.0,JAWA TIMUR,3518.0,NGANJUK,1.0,0.0,"Pembangunan Kios, Pembangunan Toilet, Pembangunan Lot Parkir dan Pembangunan Sarana dan Prasarana Pendukung Lainnya"
+35.0,JAWA TIMUR,3521.0,NGAWI,2.0,0.0,"Pembangunan Kios/Kedai, Pembangunan Gazebo/Saung, dan Pembangunan Toilet Umum
 Pembangunan Kolam Renang dan Pembangunan Pendukung Lainnya (Taman dan Pagar Pembatas)"
-35.0,JAWA TIMUR,3501.0,PACITAN,1.0,,Pembangunan Kolam Pemandian dan Pembangunan Pedestrian
-35.0,JAWA TIMUR,3528.0,PAMEKASAN,1.0,,Pembangunan Toilet Umum dan Pembangunan Kios/Kedai-Kedai
-35.0,JAWA TIMUR,3514.0,PASURUAN,1.0,,Pembangunan Kolam Pemandian
-35.0,JAWA TIMUR,3502.0,PONOROGO,4.0,,"Pembangunan Balai Kesenian Tradisional
+35.0,JAWA TIMUR,3501.0,PACITAN,1.0,0.0,Pembangunan Kolam Pemandian dan Pembangunan Pedestrian
+35.0,JAWA TIMUR,3528.0,PAMEKASAN,1.0,0.0,Pembangunan Toilet Umum dan Pembangunan Kios/Kedai-Kedai
+35.0,JAWA TIMUR,3514.0,PASURUAN,1.0,0.0,Pembangunan Kolam Pemandian
+35.0,JAWA TIMUR,3502.0,PONOROGO,4.0,0.0,"Pembangunan Balai Kesenian Tradisional
 Pembangunan Gazebo, Pembangunan Kios/Kedai-kedai, dan Pembangunan Pedestrian
 Pembangunan Balai Kesenian Tradisional
 Pembangunan Kios/Kedai-Kedai"
-35.0,JAWA TIMUR,3527.0,SAMPANG,1.0,,Pembangunan Homestay
-35.0,JAWA TIMUR,3515.0,SIDOARJO,1.0,,"Pembangunan Balai Kesenian Tradisional, dan Pembangunan Sarana dan Prasarana Pendukung (Paving Block dan Dinding Penahan Tanah)"
-35.0,JAWA TIMUR,3503.0,TRENGGALEK,2.0,,"Pembangunan Balai Kesenian Tradisional, Pembangunan Toilet Umum, Pembangunan Gazebo, dan Pembangunan Pedestrian
+35.0,JAWA TIMUR,3527.0,SAMPANG,1.0,0.0,Pembangunan Homestay
+35.0,JAWA TIMUR,3515.0,SIDOARJO,1.0,0.0,"Pembangunan Balai Kesenian Tradisional, dan Pembangunan Sarana dan Prasarana Pendukung (Paving Block dan Dinding Penahan Tanah)"
+35.0,JAWA TIMUR,3503.0,TRENGGALEK,2.0,0.0,"Pembangunan Balai Kesenian Tradisional, Pembangunan Toilet Umum, Pembangunan Gazebo, dan Pembangunan Pedestrian
 Pembangunan Gazebo/Saung dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Jalan Pedestrian)"
-61.0,KALIMANTAN BARAT,6112.0,KUBU RAYA,2.0,,"Pembangunan Kios/Kedai
+61.0,KALIMANTAN BARAT,6112.0,KUBU RAYA,2.0,0.0,"Pembangunan Kios/Kedai
 Pembangunan Balai Kesenian Tradisional"
-61.0,KALIMANTAN BARAT,6110.0,MELAWI,1.0,,Pembangunan Gazebo/Saung dan Pembangunan Kios/Kedai
-61.0,KALIMANTAN BARAT,6101.0,SAMBAS,1.0,,Pembangunan Balai Kesenian
-61.0,KALIMANTAN BARAT,6109.0,SEKADAU,2.0,,"Pembangunan Gazebo/Saung dan Pembangunan Toilet Umum
+61.0,KALIMANTAN BARAT,6110.0,MELAWI,1.0,0.0,Pembangunan Gazebo/Saung dan Pembangunan Kios/Kedai
+61.0,KALIMANTAN BARAT,6101.0,SAMBAS,1.0,0.0,Pembangunan Balai Kesenian
+61.0,KALIMANTAN BARAT,6109.0,SEKADAU,2.0,0.0,"Pembangunan Gazebo/Saung dan Pembangunan Toilet Umum
 Pembangunan Gazebo/Saung dan Pembangunan Toilet Umum"
-64.0,KALIMANTAN TIMUR,6403.0,BERAU,1.0,,Pembangunan Balai Kesenian
-64.0,KALIMANTAN TIMUR,6402.0,KUTAI KARTANEGARA,1.0,,"Pembangunan Toilet, Gazebo, Kios dan Pedestrian"
-64.0,KALIMANTAN TIMUR,6408.0,KUTAI TIMUR,2.0,,"Pembangunan Kolam Pemandian dan Pembangunan Sarana dan Prasarana Pendukung (Pembuatan Balancing Tank dan Ruang Instalasi dan Wahana Kolam Pemanddian (Waterboom)
+64.0,KALIMANTAN TIMUR,6403.0,BERAU,1.0,0.0,Pembangunan Balai Kesenian
+64.0,KALIMANTAN TIMUR,6402.0,KUTAI KARTANEGARA,1.0,0.0,"Pembangunan Toilet, Gazebo, Kios dan Pedestrian"
+64.0,KALIMANTAN TIMUR,6408.0,KUTAI TIMUR,2.0,0.0,"Pembangunan Kolam Pemandian dan Pembangunan Sarana dan Prasarana Pendukung (Pembuatan Balancing Tank dan Ruang Instalasi dan Wahana Kolam Pemanddian (Waterboom)
 Pembangunan Kios/Kedai-Kedai dan Pembangunan Jembatan Pedestrian"
-21.0,KEPULAUAN RIAU,2103.0,NATUNA,2.0,,"Pembangunan Gazebo dan Pembangunan Pedestrian
+21.0,KEPULAUAN RIAU,2103.0,NATUNA,2.0,0.0,"Pembangunan Gazebo dan Pembangunan Pedestrian
 Pembangunan Kolam Pemandian dan Pembangunan Toilet Umum"
-18.0,LAMPUNG,1807.0,LAMPUNG TIMUR,1.0,,Pembangunan Gazebo/Saung dan Pembangunan Sarana dan Prasarana Pendukung (Rabat Beton dan Paving Block)
-18.0,LAMPUNG,1803.0,LAMPUNG UTARA,1.0,,Pembangunan Gazebo dan Pembangunan Toilet Umum
-82.0,MALUKU UTARA,8201.0,HALMAHERA BARAT,1.0,,Pembangunan Homestay
-82.0,MALUKU UTARA,8203.0,HALMAHERA UTARA,1.0,,Pembangunan Gazebo dan Sarana Pendukung (Jalan)
-52.0,NUSA TENGGARA BARAT,5202.0,LOMBOK TENGAH,2.0,,"Pembangunan Kolam Pemandian dan Pembangunan Sarana dan Prasarana Pendukung (Paving Block)
+18.0,LAMPUNG,1807.0,LAMPUNG TIMUR,1.0,0.0,Pembangunan Gazebo/Saung dan Pembangunan Sarana dan Prasarana Pendukung (Rabat Beton dan Paving Block)
+18.0,LAMPUNG,1803.0,LAMPUNG UTARA,1.0,0.0,Pembangunan Gazebo dan Pembangunan Toilet Umum
+82.0,MALUKU UTARA,8201.0,HALMAHERA BARAT,1.0,0.0,Pembangunan Homestay
+82.0,MALUKU UTARA,8203.0,HALMAHERA UTARA,1.0,0.0,Pembangunan Gazebo dan Sarana Pendukung (Jalan)
+52.0,NUSA TENGGARA BARAT,5202.0,LOMBOK TENGAH,2.0,0.0,"Pembangunan Kolam Pemandian dan Pembangunan Sarana dan Prasarana Pendukung (Paving Block)
 Pembangunan Homestay dan Pembangunan Gazebo"
-52.0,NUSA TENGGARA BARAT,5203.0,LOMBOK TIMUR,1.0,,"Pembangunan Homestay, Pembangunan Kolam Pemandian dan Pembangunan Gazebo"
-53.0,NUSA TENGGARA TIMUR,5309.0,NGADA,1.0,,
-96.0,PAPUA BARAT DAYA,9601.0,SORONG,1.0,,Pembangunan Gazebo dan Toilet
-96.0,PAPUA BARAT DAYA,9604.0,SORONG SELATAN,1.0,,"Pembangunan Gazebo/Saung, Pembangunan Toilet Umum"
-14.0,RIAU,1403.0,BENGKALIS,1.0,,"Pembangunan Gazebo, Pembangunan Kios, dan Pembangunan Sarana Pendukung (Tugu, Penerangan dan Taman)"
-14.0,RIAU,1404.0,INDRAGIRI HILIR,2.0,,"Pembangunan Kolam Pemandian
+52.0,NUSA TENGGARA BARAT,5203.0,LOMBOK TIMUR,1.0,0.0,"Pembangunan Homestay, Pembangunan Kolam Pemandian dan Pembangunan Gazebo"
+53.0,NUSA TENGGARA TIMUR,5309.0,NGADA,1.0,0.0,0
+96.0,PAPUA BARAT DAYA,9601.0,SORONG,1.0,0.0,Pembangunan Gazebo dan Toilet
+96.0,PAPUA BARAT DAYA,9604.0,SORONG SELATAN,1.0,0.0,"Pembangunan Gazebo/Saung, Pembangunan Toilet Umum"
+14.0,RIAU,1403.0,BENGKALIS,1.0,0.0,"Pembangunan Gazebo, Pembangunan Kios, dan Pembangunan Sarana Pendukung (Tugu, Penerangan dan Taman)"
+14.0,RIAU,1404.0,INDRAGIRI HILIR,2.0,0.0,"Pembangunan Kolam Pemandian
 Pembangunan Toilet Umum, Pembangunan Saung/Gazebo dan Pembangunan Kios/Kedai"
-14.0,RIAU,1401.0,KAMPAR,2.0,,"Pembangunan Saung/Gazebo dan Pembangunan Toilet Umum
+14.0,RIAU,1401.0,KAMPAR,2.0,0.0,"Pembangunan Saung/Gazebo dan Pembangunan Toilet Umum
 Pembangunan Saung/Gazebo, Pembangunan Kios/Kedai dan Pembangunan Pedestrian"
-14.0,RIAU,1407.0,ROKAN HILIR,1.0,,Pembangunan Balai Kesenian Tradisional
-14.0,RIAU,1406.0,ROKAN HULU,1.0,,"Pembangunan Gazebo, Pembangunan Kedai/Kios, dan Pembangunan Toilet Umum"
-14.0,RIAU,1408.0,SIAK,1.0,,Pembangunan Kolam Pemandian
-76.0,SULAWESI BARAT,7604.0,POLEWALI MANDAR,1.0,,Pembangunan Balai Kesenian dan Pembangunan Toilet Umum
-73.0,SULAWESI SELATAN,7308.0,BONE,1.0,,Pembangunan Balai Kesenian dan Pembangunan Pedestrian
-73.0,SULAWESI SELATAN,7306.0,GOWA,1.0,,Pembangunan Kolam Pemandian 
-73.0,SULAWESI SELATAN,7324.0,LUWU TIMUR,3.0,,"Pembangunan Gazebo, Pembangunan Kios/Kedai-Kedai, dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Parkiran dan Gerbang)
+14.0,RIAU,1407.0,ROKAN HILIR,1.0,0.0,Pembangunan Balai Kesenian Tradisional
+14.0,RIAU,1406.0,ROKAN HULU,1.0,0.0,"Pembangunan Gazebo, Pembangunan Kedai/Kios, dan Pembangunan Toilet Umum"
+14.0,RIAU,1408.0,SIAK,1.0,0.0,Pembangunan Kolam Pemandian
+76.0,SULAWESI BARAT,7604.0,POLEWALI MANDAR,1.0,0.0,Pembangunan Balai Kesenian dan Pembangunan Toilet Umum
+73.0,SULAWESI SELATAN,7308.0,BONE,1.0,0.0,Pembangunan Balai Kesenian dan Pembangunan Pedestrian
+73.0,SULAWESI SELATAN,7306.0,GOWA,1.0,0.0,Pembangunan Kolam Pemandian 
+73.0,SULAWESI SELATAN,7324.0,LUWU TIMUR,3.0,0.0,"Pembangunan Gazebo, Pembangunan Kios/Kedai-Kedai, dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Parkiran dan Gerbang)
 Pembangunan Homestay, Pembangunan Gazebo/Saung, dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Toilet)
 Pembangunan Kios/Kedai-Kedai dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Toilet)"
-73.0,SULAWESI SELATAN,7322.0,LUWU UTARA,2.0,,"Pembangunan Kios/Kedai, Pembangunan Saung/Gazebo, Pembangunan Toilet Umum, Pembangunan Homestay dan Pembangunan Icon Lokasi
+73.0,SULAWESI SELATAN,7322.0,LUWU UTARA,2.0,0.0,"Pembangunan Kios/Kedai, Pembangunan Saung/Gazebo, Pembangunan Toilet Umum, Pembangunan Homestay dan Pembangunan Icon Lokasi
 Pembangunan Saung/Gazebo, Pembangunan Kedai/Kios dan Pembangunan Toilet Umum"
-73.0,SULAWESI SELATAN,7315.0,PINRANG,1.0,,"Pembangunan Kios/Kedai, Pembangunan Saung/Gazebo, Pembangunan Toilet Umum, Pembangunan Talud dan Pedestrian"
-73.0,SULAWESI SELATAN,7312.0,SOPPENG,1.0,,Pembangunan Kolam Pemandian dan Pembangunan Toilet Umum
-73.0,SULAWESI SELATAN,7305.0,TAKALAR,1.0,,"Pembangunan Gazebo, Pembangunan Kolam Pemandian"
-73.0,SULAWESI SELATAN,7318.0,TANA TORAJA,4.0,,"Pembangunan Kolam Pemandian
+73.0,SULAWESI SELATAN,7315.0,PINRANG,1.0,0.0,"Pembangunan Kios/Kedai, Pembangunan Saung/Gazebo, Pembangunan Toilet Umum, Pembangunan Talud dan Pedestrian"
+73.0,SULAWESI SELATAN,7312.0,SOPPENG,1.0,0.0,Pembangunan Kolam Pemandian dan Pembangunan Toilet Umum
+73.0,SULAWESI SELATAN,7305.0,TAKALAR,1.0,0.0,"Pembangunan Gazebo, Pembangunan Kolam Pemandian"
+73.0,SULAWESI SELATAN,7318.0,TANA TORAJA,4.0,0.0,"Pembangunan Kolam Pemandian
 Pembangunan Kios/Kedai-Kedai, Pembangunan Gazebo/Saung, dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Jalan Setapak/Pedestrian)
 Pembangunan Gazebo/Saung
 Pembangunan Toilet, Pembangunan Gazebo/Saung, dan Pembangunan Sarana dan Prasarana Pendukung Lainnya"
-73.0,SULAWESI SELATAN,7326.0,TORAJA UTARA,1.0,,Pembangunan Toilet dan Pembangunan Gazebo/Saung
-73.0,SULAWESI SELATAN,7313.0,WAJO,3.0,,"Pembangunan Kolam Pemandian
+73.0,SULAWESI SELATAN,7326.0,TORAJA UTARA,1.0,0.0,Pembangunan Toilet dan Pembangunan Gazebo/Saung
+73.0,SULAWESI SELATAN,7313.0,WAJO,3.0,0.0,"Pembangunan Kolam Pemandian
 Pembangunan Kolam Pemandian dan Pembangunan Toilet Umum
 Pembangunan Kolam Pemandian "
-72.0,SULAWESI TENGAH,7206.0,MOROWALI,2.0,,"Pembangunan Kios/Kedai-Kedai dan Pembangunan Sarana dan Prasarana Pendukung Lainnya
+72.0,SULAWESI TENGAH,7206.0,MOROWALI,2.0,0.0,"Pembangunan Kios/Kedai-Kedai dan Pembangunan Sarana dan Prasarana Pendukung Lainnya
 Pembangunan Gazebo/Saung dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Titian Kayu dan Toilet)"
-74.0,SULAWESI TENGGARA,7403.0,MUNA,2.0,,"Pembangunan Kios/Kedai, dan Pembangunan Toilet Umum
+74.0,SULAWESI TENGGARA,7403.0,MUNA,2.0,0.0,"Pembangunan Kios/Kedai, dan Pembangunan Toilet Umum
 Pembangunan Kios/Kedai, Pembangunan Gazebo/Saung, dan Pembangunan Toilet Umum"
-71.0,SULAWESI UTARA,7103.0,KEPULAUAN SANGIHE,1.0,,"Pembangunan Homestay, Gazebo, dan Toilet"
-71.0,SULAWESI UTARA,7104.0,KEPULAUAN TALAUD,1.0,,Pembangunan Balai Kesenian
-71.0,SULAWESI UTARA,7102.0,MINAHASA,1.0,,Pembangunan Homestay ( 3 Unit)
-13.0,SUMATERA BARAT,1306.0,AGAM,1.0,,Pembangunan Toilet Umum
-13.0,SUMATERA BARAT,1377.0,KOTA PARIAMAN,1.0,,Pembangunan Gazebo dan sarana dan prasarana pendukung lainnya (area parkir dan pedestrian)
-13.0,SUMATERA BARAT,1307.0,LIMA PULUH KOTA,1.0,,"Pembangunan Gazebo, Pembangunan Toilet Umum, dan Pembangunan Kios/Kedai"
-13.0,SUMATERA BARAT,1305.0,PADANG PARIAMAN,1.0,,Pembangunan Balai Kesenian
-13.0,SUMATERA BARAT,1302.0,SOLOK,2.0,,"Pembangunan Saung/Gazebo, Pembangunan Toilet Umum, Pembangunan Kios/Kedai, Pembangunan Titik Kumpul dan Pembangunan Pedestrian
+71.0,SULAWESI UTARA,7103.0,KEPULAUAN SANGIHE,1.0,0.0,"Pembangunan Homestay, Gazebo, dan Toilet"
+71.0,SULAWESI UTARA,7104.0,KEPULAUAN TALAUD,1.0,0.0,Pembangunan Balai Kesenian
+71.0,SULAWESI UTARA,7102.0,MINAHASA,1.0,0.0,Pembangunan Homestay ( 3 Unit)
+13.0,SUMATERA BARAT,1306.0,AGAM,1.0,0.0,Pembangunan Toilet Umum
+13.0,SUMATERA BARAT,1377.0,KOTA PARIAMAN,1.0,0.0,Pembangunan Gazebo dan sarana dan prasarana pendukung lainnya (area parkir dan pedestrian)
+13.0,SUMATERA BARAT,1307.0,LIMA PULUH KOTA,1.0,0.0,"Pembangunan Gazebo, Pembangunan Toilet Umum, dan Pembangunan Kios/Kedai"
+13.0,SUMATERA BARAT,1305.0,PADANG PARIAMAN,1.0,0.0,Pembangunan Balai Kesenian
+13.0,SUMATERA BARAT,1302.0,SOLOK,2.0,0.0,"Pembangunan Saung/Gazebo, Pembangunan Toilet Umum, Pembangunan Kios/Kedai, Pembangunan Titik Kumpul dan Pembangunan Pedestrian
 Pembangunan Kios/Kedai, Pembangunan Toilet Umum, Pembangunan Saung/Gazebo dan Pembangunan Drainase dan Urugan"
-16.0,SUMATERA SELATAN,1607.0,BANYUASIN,4.0,,"Pembangunan Balai Kesenian
+16.0,SUMATERA SELATAN,1607.0,BANYUASIN,4.0,0.0,"Pembangunan Balai Kesenian
 Pembangunan Kolam Pemandian dan Pembangunan Kamar Bilas
 Pembangunan Kolam Pemandian dan Pembangunan Wahana Permainan Seluncur Air
 Pembangunan Kolam Pemandian dan Pembangunan Wahana Permainan Seluncur Air"
-16.0,SUMATERA SELATAN,1611.0,EMPAT LAWANG,1.0,,"Pembangunan Toilet Umum, Pembangunan Balai Kesenian, Pembangunan Gazebo, dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Jalan Pedestrian)"
-16.0,SUMATERA SELATAN,1606.0,MUSI BANYUASIN,1.0,,Kolam Pemandian dan Sarana Pendukung (Toilet)
-16.0,SUMATERA SELATAN,1613.0,MUSI RAWAS UTARA,1.0,,Pembangunan 6 unit Gazebo dan Pembangunan Pedestrian
-16.0,SUMATERA SELATAN,1610.0,OGAN ILIR,1.0,,"Pembangunan Gazebo, dan Pembangunan Kios/Kedai"
-12.0,SUMATERA UTARA,1206.0,KARO,1.0,,"Pembangunan Kedai/Kios, Pembangunan Gazebo, dan Pembangunan Sarana dan Prasara Pendukung Lainnya (Pavingisasi)"
-12.0,SUMATERA UTARA,1213.0,MANDAILING NATAL,1.0,,Pembangunan Gazebo dan Pembangunan Kios/Kedai-kedai
-12.0,SUMATERA UTARA,1217.0,SAMOSIR,1.0,,Pembangunan Gazebo/Saung dan Kios/Kedai-kedai
-12.0,SUMATERA UTARA,1202.0,TAPANULI UTARA,2.0,,"Pembangunan Kios/Kedai, Pembangunan Gazebo/Saung
+16.0,SUMATERA SELATAN,1611.0,EMPAT LAWANG,1.0,0.0,"Pembangunan Toilet Umum, Pembangunan Balai Kesenian, Pembangunan Gazebo, dan Pembangunan Sarana dan Prasarana Pendukung Lainnya (Jalan Pedestrian)"
+16.0,SUMATERA SELATAN,1606.0,MUSI BANYUASIN,1.0,0.0,Kolam Pemandian dan Sarana Pendukung (Toilet)
+16.0,SUMATERA SELATAN,1613.0,MUSI RAWAS UTARA,1.0,0.0,Pembangunan 6 unit Gazebo dan Pembangunan Pedestrian
+16.0,SUMATERA SELATAN,1610.0,OGAN ILIR,1.0,0.0,"Pembangunan Gazebo, dan Pembangunan Kios/Kedai"
+12.0,SUMATERA UTARA,1206.0,KARO,1.0,0.0,"Pembangunan Kedai/Kios, Pembangunan Gazebo, dan Pembangunan Sarana dan Prasara Pendukung Lainnya (Pavingisasi)"
+12.0,SUMATERA UTARA,1213.0,MANDAILING NATAL,1.0,0.0,Pembangunan Gazebo dan Pembangunan Kios/Kedai-kedai
+12.0,SUMATERA UTARA,1217.0,SAMOSIR,1.0,0.0,Pembangunan Gazebo/Saung dan Kios/Kedai-kedai
+12.0,SUMATERA UTARA,1202.0,TAPANULI UTARA,2.0,0.0,"Pembangunan Kios/Kedai, Pembangunan Gazebo/Saung
 Pembangunan Kios/Kedai, Pembangunan Balai Kesenian"
